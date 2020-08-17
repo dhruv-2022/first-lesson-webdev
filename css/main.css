@@ -1,0 +1,27 @@
+.siteheader{
+    background-color: firebrick;
+    color : #ecfdf9;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: #6d0f0f 3px 3px 5px 4px;
+}
+body{
+    margin: 0;
+    
+}
+.profilepic{
+    box-shadow: #6d0f0f 3px 3px 5px 4px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.link_espanol{
+    color:#ecfdf9;
+}
+.siteheadertext{
+margin: 1rem;
+}
